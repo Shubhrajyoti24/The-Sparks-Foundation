@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    color: white;
+}
+
+#background {
+    height: 100%;
+    background: url('https://cdn.pixabay.com/photo/2018/06/03/17/36/save-3451075_960_720.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    justify-content: left;
+    margin: 30px;
+    font-size: 20px;
+    color: black;
+    width: 50%;
+    margin-left: -20px;
+}
+
+nav {
+    width: 100%;
+    background: rgba(22, 247, 255, 0.5);
+    position: fixed;
+    top: 0;
+    height: 70px;
+}
+
+nav>h1 {
+    font-family: sans-serif;
+    color: rgba(172, 51, 228, 0.295);
+    margin-left: 15px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+footer {
+    width: 100%;
+    background: rgba(22, 247, 255, 0.288);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer>p {
+    color: black;
+    margin: 0px;
+}
