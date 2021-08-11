@@ -1,4 +1,4 @@
-# The-Sparks-Foundation
+#  The Sparks Foundation
 
 { Graduate Rotational Internship Programme (GRIP) }
 
