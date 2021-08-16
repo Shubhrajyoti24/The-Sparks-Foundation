@@ -1,6 +1,7 @@
-#  The Sparks Foundation
+## The Sparks Foundation
 
-{ Graduate Rotational Internship Programme (GRIP) }
+# { Graduate Rotational Internship Programme (GRIP) }
+
 (Web Development and Designing Intern)
 
 * Creating a simple Payment Gateway integrated website.
